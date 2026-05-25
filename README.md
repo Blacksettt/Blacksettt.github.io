@@ -13,6 +13,7 @@ Mathematics, Business studies
 Physics, Geography, English
 
 ### Certifications & Training 
+
 CompTIA security+ - Pass with distinction
 CompTIA securityX - (Formrly CASP+) - pass with distinction
 CompTIA pentest+ - Passed
@@ -21,14 +22,16 @@ Linux Administration
 Cysa+
 
 ### Skills 
+
 Cybersecurity
-  Threat Detection
+ Threat Detection,
   Basic incident Response
   Vulnerability Assessment
   Network security
   Penetration Testing Fundamentals
 
 ### Technical skills
+
  Linux Administration
  Network & Troubleshooting
  Wireless Security
@@ -36,6 +39,7 @@ Cybersecurity
  Basic System Administration
 
  ### Soft Skills
+ 
   Communication
   Problem solving 
   Customer service
