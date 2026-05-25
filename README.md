@@ -1,6 +1,6 @@
 # Geovani Garrett
 Aspiring cybersecurity Analyst | SOC & Network
-Security Enthusiast
+Security Enthusiast.
 
 I'm focused on building practical cybersecurity
 skills in threat detection, network security, Linux
@@ -10,7 +10,7 @@ learning.
 
 ### Education
 Mathematics, Business studies
-Physics, Geography, English
+Physics, Geography, English.
 
 ### Certifications & Training 
 
@@ -25,33 +25,33 @@ Cysa+
 
 Cybersecurity
  Threat Detection,
-  Basic incident Response
-  Vulnerability Assessment
-  Network security
-  Penetration Testing Fundamentals
+  Basic incident Response, 
+  Vulnerability Assessment, 
+  Network security, 
+  Penetration Testing Fundamentals.
 
 ### Technical skills
 
- Linux Administration
- Network & Troubleshooting
- Wireless Security
- Microsoft Office
- Basic System Administration
+ Linux Administration, 
+ Network & Troubleshooting, 
+ Wireless Security, 
+ Microsoft Office, 
+ Basic System Administration.
 
  ### Soft Skills
  
-  Communication
-  Problem solving 
-  Customer service
-  Sales & Negotion
-  Adaptability
+  Communication, 
+  Problem solving, 
+  Customer service, 
+  Sales & Negotion, 
+  Adaptability,
 
  ### TryHackME
-  Enumeration
-  Vulnerability scanning
-  Linux privilege Escalation
-  Web security Basics
-  Networking & Defensive security
+  Enumeration, 
+  Vulnerability scanning, 
+  Linux privilege Escalation, 
+  Web security Basics, 
+  Networking & Defensive security.
 
   ### Contact section
    Email: manuelgelson466@gmai.com
