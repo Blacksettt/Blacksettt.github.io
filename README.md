@@ -15,10 +15,15 @@ Physics, Geography, English.
 ### Certifications & Training 
 
 CompTIA security+ :Pass with distinction
+
 CompTIA securityX : (Formrly CASP+) - pass with distinction
+
 CompTIA pentest+ :Passed
+
 Linux Operating systems
+
 Linux Administration
+
 Cysa+
 
 ### Skills 
