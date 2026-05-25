@@ -1,15 +1,56 @@
-# Cybersecurity Analyst
+# Geovani Garrett
+Aspiring cybersecurity Analyst | SOC & Network
+Security Enthusiast
+
+I'm focused on building practical cybersecurity
+skills in threat detection, network security, Linux
+systems, and penetration testing while continuosly 
+developing through hands-on labs and real-world
+learning.
 
 ### Education
 Mathematics, Business studies
 Physics, Geography, English
 
-### Work experience
-Aspiring cybersecurity professional with training in 
-penetration testing, network security, Linux administration, 
-and cybersecurity analysis.
-Completed CompTIA security+ and compTIA securityX
-with distintion, alongside compTIA Pentest+ and 
-compTIA Network+. Bult pratical skills through TryHackME
- -Labs and developed communication, sales, and customer
- service experience through independent clothing and shoe sales
+### Certifications & Training 
+CompTIA security+ - Pass with distinction
+CompTIA securityX - (Formrly CASP+) - pass with distinction
+CompTIA pentest+ - Passed
+Linux Operating systems
+Linux Administration
+Cysa+
+
+### Skills 
+Cybersecurity
+  Threat Detection
+  Basic incident Response
+  Vulnerability Assessment
+  Network security
+  Penetration Testing Fundamentals
+
+### Technical skills
+ Linux Administration
+ Network & Troubleshooting
+ Wireless Security
+ Microsoft Office
+ Basic System Administration
+
+ ### Soft Skills
+  Communication
+  Problem solving 
+  Customer service
+  Sales & Negotion
+  Adaptability
+
+ ### TryHackME
+  Enumeration
+  Vulnerability scanning
+  Linux privilege Escalation
+  Web security Basics
+  Networking & Defensive security
+
+  ### Contact section
+   Email: manuelgelson466@gmai.com
+   Number: 0734303297
+   City: Cape Town
+  
