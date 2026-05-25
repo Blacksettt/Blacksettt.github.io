@@ -14,9 +14,9 @@ Physics, Geography, English.
 
 ### Certifications & Training 
 
-CompTIA security+ - Pass with distinction
-CompTIA securityX - (Formrly CASP+) - pass with distinction
-CompTIA pentest+ - Passed
+CompTIA security+ :Pass with distinction
+CompTIA securityX : (Formrly CASP+) - pass with distinction
+CompTIA pentest+ :Passed
 Linux Operating systems
 Linux Administration
 Cysa+
@@ -53,8 +53,16 @@ Cybersecurity
   Web security Basics, 
   Networking & Defensive security.
 
+  ### Career Goals
+  My goal is to grow into a SOC Analyst or cybersecurity-focused IT role
+  where i can strenghthen my pratical security skills, contribute to threat
+  monitoring and incident response, and continue learning in real-world environments.
+
   ### Contact section
    Email: manuelgelson466@gmai.com
+   
    Number: 0734303297
    City: Cape Town
+
+   Linkding : https://www.linkedin.com/in/giovani-garrett-60888540b?utm_source=share_via&utm_content=profile&utm_medium=member_ios
   
