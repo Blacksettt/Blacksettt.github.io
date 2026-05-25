@@ -43,7 +43,7 @@ Cybersecurity
  Microsoft Office, 
  Basic System Administration.
 
- ### Soft Skills
+   Soft Skills
  
   Communication, 
   Problem solving, 
@@ -51,7 +51,7 @@ Cybersecurity
   Sales & Negotion, 
   Adaptability,
 
- ### TryHackME
+   TryHackME
  
   Enumeration, 
   Vulnerability scanning, 
@@ -59,7 +59,7 @@ Cybersecurity
   Web security Basics, 
   Networking & Defensive security.
 
-  ### Career Goals
+   Career Goals
   My goal is to grow into a SOC Analyst or cybersecurity-focused IT role
   where i can strenghthen my pratical security skills, contribute to threat
   monitoring and incident response, and continue learning in real-world environments.
