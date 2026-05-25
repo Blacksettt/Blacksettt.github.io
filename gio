@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geovanny Garrett | Cybersecurity Analyst</title>
+
+    <style>
+
+        body{
+            margin:0;
+            font-family:Arial;
+            background:#0f172a;
+            color:white;
+        }
+
+        header{
+            text-align:center;
+            padding:80px 20px;
+            background:linear-gradient(to right,#020617,#0f172a);
+        }
+
+        header h1{
+            font-size:55px;
+            color:#38bdf8;
+            margin-bottom:10px;
+        }
+
+        header p{
+            font-size:22px;
+            color:#94a3b8;
+        }
+
+        section{
+            max-width:1000px;
+            margin:auto;
+            padding:40px 20px;
+        }
+
+        h2{
+            color:#38bdf8;
+            border-bottom:2px solid #38bdf8;
+            padding-bottom:10px;
+        }
+
+        .card{
+            background:#1e293b;
+            padding:25px;
+            border-radius:12px;
+            margin-top:20px;
+            box-shadow:0 0 15px rgba(56,189,248,0.2);
+        }
+
+        ul{
+            line-height:2;
+        }
+
+        footer{
+            text-align:center;
+            padding:30px;
+            background:#020617;
+            color:#94a3b8;
+        }
+
+        a{
+            color:#38bdf8;
+            text-decoration:none;
+        }
+
+    </style>
+
+</head>
+<body>
+
+<header>
+
+    <h1>GEOVANNY GARRETT</h1>
+
+    <p>
+        Aspiring Cybersecurity Analyst <br>
+        SOC • Threat Detection • Network Security • Linux
+    </p>
+
+</header>
+
+<section>
+
+    <h2>About Me</h2>
+
+    <div class="card">
+
+        <p>
+            I am an aspiring Cybersecurity Analyst passionate about
+            threat detection, network security, Linux systems,
+            and penetration testing.
+
+            I continuously build practical cybersecurity skills through
+            hands-on labs, self-study, and real-world learning experiences.
+        </p>
+
+    </div>
+
+</section>
+
+<section>
+
+    <h2>Certifications & Training</h2>
+
+    <div class="card">
+
+        <ul>
+            <li>CompTIA Security+ — Passed with Distinction</li>
+            <li>CompTIA SecurityX — Passed with Distinction</li>
+            <li>CompTIA PenTest+ — Passed</li>
+            <li>CompTIA CySA+</li>
+            <li>Linux Administration</li>
+        </ul>
+
+    </div>
+
+</section>
+
+<section>
+
+    <h2>Cybersecurity Skills</h2>
+
+    <div class="card">
+
+        <ul>
+            <li>Threat Detection</li>
+            <li>Vulnerability Assessment</li>
+            <li>Network Security</li>
+            <li>Incident Response</li>
+            <li>Penetration Testing Fundamentals</li>
+        </ul>
+
+    </div>
+
+</section>
+
+<section>
+
+    <h2>TryHackMe Experience</h2>
+
+    <div class="card">
+
+        <ul>
+            <li>Enumeration</li>
+            <li>Linux Privilege Escalation</li>
+            <li>Vulnerability Scanning</li>
+            <li>Defensive Security Labs</li>
+            <li>Web Security Basics</li>
+        </ul>
+
+    </div>
+
+</section>
+
+<section>
+
+    <h2>Contact</h2>
+
+    <div class="card">
+
+        <p>Email: manuelgelson466@gmail.com</p>
+
+        <p>Phone: 073 430 3297</p>
+
+        <p>Location: Cape Town, South Africa</p>
+
+        <p>
+            LinkedIn:
+            <a href="https://www.linkedin.com/in/giovani-garrett-60888540b">
+                View Profile
+            </a>
+        </p>
+
+    </div>
+
+</section>
+
+<footer>
+
+    <p>Secure Today • Protect Tomorrow</p>
+
+</footer>
+
+</body>
+</html>
