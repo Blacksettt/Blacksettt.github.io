@@ -52,6 +52,7 @@ Cybersecurity
   Adaptability,
 
  ### TryHackME
+ 
   Enumeration, 
   Vulnerability scanning, 
   Linux privilege Escalation, 
@@ -64,6 +65,7 @@ Cybersecurity
   monitoring and incident response, and continue learning in real-world environments.
 
   ### Contact section
+  
    Email: manuelgelson466@gmai.com
    
    Number: 0734303297
