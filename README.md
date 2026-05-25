@@ -64,7 +64,7 @@ Cybersecurity
   where i can strenghthen my pratical security skills, contribute to threat
   monitoring and incident response, and continue learning in real-world environments.
 
-   Contact section
+   Contact
   
    Email: manuelgelson466@gmail.com
    
