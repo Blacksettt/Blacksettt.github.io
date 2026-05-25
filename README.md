@@ -66,7 +66,7 @@ Cybersecurity
 
    Contact section
   
-   Email: manuelgelson466@gmai.com
+   Email: manuelgelson466@gmail.com
    
    Number: 0734303297
    City: Cape Town
